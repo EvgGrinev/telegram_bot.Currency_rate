@@ -7,7 +7,6 @@
 #pip install requests
 #pipn install lxml
 
-from ast import While
 import telebot
 from telebot import types
 
