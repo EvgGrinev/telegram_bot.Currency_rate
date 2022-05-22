@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.4.0
+telebot==0.0.4
+requests==2.27.1
+lxml==4.8.0
+beautifulsoup4==4.11.1
